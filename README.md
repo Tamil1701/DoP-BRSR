@@ -5,7 +5,7 @@ The **Business Responsibility and Sustainability Reporting (BRSR)** system is a 
 
 ## Key Features
 - **Real-Time Data Collection**: IoT sensors track energy consumption, fuel usage, and waste at various DoP locations.
-- **Mobile-First Reporting**: Postal workers can use a mobile app to submit sustainability data, even in offline mode.
+- **Mobile-First Reporting**: Postal workers can use a mobile app or web portal to submit sustainability data, even in offline mode.
 - **Automated BRSR Reports**: Generate standardized reports aligned with BRSR guidelines to reduce manual reporting efforts.
 - **Power BI Integration**: Analyze real-time data through Power BI Cloud dashboards for actionable insights.
 - **Public Transparency**: A web portal for stakeholders to access DoP’s sustainability reports and performance metrics.
